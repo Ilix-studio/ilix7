@@ -9,3 +9,11 @@
 
 
 <!-- ![preview img](/preview.png) -->
+
+<!-- https://www.youtube.com/watch?v=cgV2tN8gxCg&t=4629s&ab_channel=Bedimcode -->
+Errors 
+- Navlist is not working Properly
+- Explore Section is not working
+- Join Section Email is not working
+- Footer color is not black
+- Buttons background fail to load

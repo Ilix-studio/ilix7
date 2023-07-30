@@ -122,11 +122,8 @@ Support
  Terms & Services
  Payments
 
-.footer__social-link
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
-https://www.youtube.com/
 
 .footer__copy
 &#169; Copyright Bedimcode. All rights reserved
+
+Explore, joins is not working properly
